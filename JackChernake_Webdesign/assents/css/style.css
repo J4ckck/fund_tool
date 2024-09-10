@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+/*
+comentários para css
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: #fc4b2a;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+header {
+    background-color: #280904;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+
+nav {
+    background-color: #9a151a;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+main {
+    background-color: #c21b12;
+}
+
+p {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #fc4b2a;
+}
+
+footer {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
